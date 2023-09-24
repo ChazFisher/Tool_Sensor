@@ -1,0 +1,17 @@
+Reference, Value, Footprint, Datasheet, automotive, category, device class L1, device class L2, device class L3, digikey description, digikey part number, frequency, height, lead free, library id, manufacturer, package, rohs, turns ratio, MANUFACTURER, STANDARD
+R3,1k,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~,,,,,,,,,,,,,,,,,
+T1,AC1005,Sensor_Current:Talema_Group_LLC-AC1005-0-0-MFG,https://www.nuvotem.com/products/datasheets/AC-1040.pdf,No,Trans,Passive Components,Transformers,unset,CURR SENSE XFMR 40A T/H,1295-1092-ND,50/60Hz,35.15mm,Yes,7e07e91291c5e656,Talema Group LLC,PTH_TRANSFORMER,Yes,1000:01:00,,
+R1,330,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~,,,,,,,,,,,,,,,,,
+D1,1N4148,Diode_THT:D_DO-35_SOD27_P12.70mm_Horizontal,~,,,,,,,,,,,,,,,,,
+C1,4.7 uF,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm,~,,,,,,,,,,,,,,,,,
+R4,100k,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~,,,,,,,,,,,,,,,,,
+R2,18k,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~,,,,,,,,,,,,,,,,,
+U2,WeMos_D1_mini,My_Parts:wemos-d1-mini-connectors-only,http://www.wemos.cc/Products/d1_mini.html,,,,,,,,,,,,,,,,,
+J1,TB004-508-02BE,My_Parts:CUI_TB004-508-02BE,,,,,,,,,,,,,,,,,CUI,Manufacturer Recommendations
+J2,TB004-508-03BE,My_Parts:CUI_TB004-508-03BE,,,,,,,,,,,,,,,,,CUI,Manufacturer Recommendations
+U1,LM339,Package_DIP:DIP-14_W7.62mm,https://www.st.com/resource/en/datasheet/lm139.pdf,,,,,,,,,,,,,,,,,
+J3,TB004-508-02BE,My_Parts:CUI_TB004-508-02BE,,,,,,,,,,,,,,,,,CUI,Manufacturer Recommendations
+U3,4N25,Package_DIP:DIP-6_W7.62mm,https://www.vishay.com/docs/83725/4n25.pdf,,,,,,,,,,,,,,,,,
+R5,120,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal,~,,,,,,,,,,,,,,,,,
+C2,100 uF,Capacitor_THT:CP_Radial_D8.0mm_P5.00mm,~,,,,,,,,,,,,,,,,,
+PS1,IRM-05-5,Converter_ACDC:Converter_ACDC_MeanWell_IRM-05-xx_THT,https://www.meanwell.com/Upload/PDF/IRM-05/IRM-05-SPEC.PDF,,,,,,,,,,,,,,,,,
